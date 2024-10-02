@@ -5,7 +5,7 @@ name: "Profile for Anisha Jain"
 email: jainanisha18@gmail.com
 url: "https://AnishaJain41.github.io"
 baseurl: "/Jekyll-for-Job-Market"
-repository: "AnishaJain41]/[Jekyll-for-Job-Market"
+repository: "AnishaJain41/Jekyll-for-Job-Market"
 header:
   image: /assets/images/banner-husky.jpg
 
@@ -37,13 +37,13 @@ minimal_mistakes_skin: "contrast"
 
 # settings for author profile
 author:
-  name   : "Mission III"
+  name   : "Anisha Jain"
   avatar : "/assets/images/banner-husky.jpg"
-  bio    : "My name is Mission III, and I am the official Huskie mascot at Northern Illinois University."
+  bio    : "My name is Anisha Jain. I am pursuing PhD in Economics at Northern Illinois University and a data analyst at Workforce and Organizational Research Center (WORC). Previously, I graduated with a Masters of Arts in Economics from University of Wisconsin - Milwaukee and joined as a business development intern at LanzaTech, Skokie."
   location: "DeKalb, Illinois"
   github : 
-  linkedin: "school/northern-illinois-university" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
-  email  : 
+  linkedin: "anisha-jain41" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
+  email  : jainanisha18@gmail.com
 
 
 # # comments by disqus
